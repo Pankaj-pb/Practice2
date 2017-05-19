@@ -1,0 +1,7 @@
+c:\users\pankaj.kakkar\documents\visual studio 2015\Projects\TestApplication\HRMTS.Common\obj\Debug\HRMTS.Common.csprojResolveAssemblyReference.cache
+C:\Users\pankaj.kakkar\documents\visual studio 2015\Projects\TestApplication\HRMTS.Common\bin\Debug\HRMTS.Common.dll
+C:\Users\pankaj.kakkar\documents\visual studio 2015\Projects\TestApplication\HRMTS.Common\bin\Debug\HRMTS.Common.pdb
+C:\Users\pankaj.kakkar\documents\visual studio 2015\Projects\TestApplication\HRMTS.Common\bin\Debug\HRMTS.Chi.dll
+C:\Users\pankaj.kakkar\documents\visual studio 2015\Projects\TestApplication\HRMTS.Common\bin\Debug\HRMTS.Chi.pdb
+C:\Users\pankaj.kakkar\documents\visual studio 2015\Projects\TestApplication\HRMTS.Common\obj\Debug\HRMTS.Common.dll
+C:\Users\pankaj.kakkar\documents\visual studio 2015\Projects\TestApplication\HRMTS.Common\obj\Debug\HRMTS.Common.pdb

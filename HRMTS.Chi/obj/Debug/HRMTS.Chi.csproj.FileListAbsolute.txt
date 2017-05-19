@@ -1,0 +1,5 @@
+C:\Users\pankaj.kakkar\documents\visual studio 2015\Projects\TestApplication\HRMTS.Chi\bin\Debug\HRMTS.Chi.dll
+C:\Users\pankaj.kakkar\documents\visual studio 2015\Projects\TestApplication\HRMTS.Chi\bin\Debug\HRMTS.Chi.pdb
+C:\Users\pankaj.kakkar\documents\visual studio 2015\Projects\TestApplication\HRMTS.Chi\obj\Debug\HRMTS.Chi.dll
+C:\Users\pankaj.kakkar\documents\visual studio 2015\Projects\TestApplication\HRMTS.Chi\obj\Debug\HRMTS.Chi.pdb
+C:\Users\pankaj.kakkar\documents\visual studio 2015\Projects\TestApplication\HRMTS.Chi\obj\Debug\HRMTS.Chi.csprojResolveAssemblyReference.cache

@@ -1,0 +1,20 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="DesktopDefault.master.cs" Inherits="HRMTS.Web.Themes.HrmSilver.MasterPages.DesktopDefault" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>HR Manager Talent Solutions - Talent Recruiter</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder_Main" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
